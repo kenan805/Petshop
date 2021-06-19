@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Cats\Cats\bin\Debug\net5.0\Cats.exe
+C:\Users\user\source\repos\Cats\Cats\bin\Debug\net5.0\Cats.deps.json
+C:\Users\user\source\repos\Cats\Cats\bin\Debug\net5.0\Cats.runtimeconfig.json
+C:\Users\user\source\repos\Cats\Cats\bin\Debug\net5.0\Cats.runtimeconfig.dev.json
+C:\Users\user\source\repos\Cats\Cats\bin\Debug\net5.0\Cats.dll
+C:\Users\user\source\repos\Cats\Cats\bin\Debug\net5.0\ref\Cats.dll
+C:\Users\user\source\repos\Cats\Cats\bin\Debug\net5.0\Cats.pdb
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\net5.0\Cats.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\net5.0\Cats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\net5.0\Cats.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\net5.0\Cats.AssemblyInfo.cs
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\net5.0\Cats.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\net5.0\Cats.dll
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\net5.0\ref\Cats.dll
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\net5.0\Cats.pdb
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\net5.0\Cats.genruntimeconfig.cache
